@@ -160,6 +160,9 @@ nav ul li a:hover::after{
     gap: 125px;
     flex-wrap: wrap;
 }
+.tab-contents > ul > a:link, a:visited, a:hover, a:active{
+    color: #A020F0;
+}
 /* Project */
 #projects{
     padding: 80px 0;
